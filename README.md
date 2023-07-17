@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathamesh-Kothalkar
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently doing Diploma in Computer Engineering
+- 🌱 I’m currently pursuing Diploma in Computer Engineering
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me email:-pkothalkar9021@gmail.com
 
