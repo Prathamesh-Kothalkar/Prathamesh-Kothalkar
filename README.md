@@ -4,7 +4,7 @@ Prathamesh-Kothalkar/Prathamesh-Kothalkar is a ✨ special ✨ repository becaus
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-👋 Hi, I’m @Prathamesh-Kothalkar<br>👀 I’m interested in Full Stack Development<br>🌱 I’m currently pursuing Diploma in Computer Engineering<br>💞️ I’m looking to collaborate on Web Development<br>📫 How to reach me email:-pkothalkar9021@gmail.com
+👋 Hi, I’m @Prathamesh-Kothalkar<br>👀 I’m interested in Web Development<br>🌱 I’m currently pursuing Diploma in Computer Engineering<br>💞️ I’m currently learning React.js and Node.js<br>📫 How to reach me email:-pkothalkar9021@gmail.com
 
 
 # 💻 Tech Stack:
