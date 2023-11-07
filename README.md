@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/prathamesh-kothalkar-0b0949243) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-kothalkar-0b0949243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 [![](https://visitcount.itsvg.in/api?id=Prathamesh-Kothalkar&icon=2&color=9)](https://visitcount.itsvg.in)
 
