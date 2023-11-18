@@ -25,4 +25,5 @@ You can click the Preview link to take a look at your changes.
 
 [![](https://visitcount.itsvg.in/api?id=Prathamesh-Kothalkar&icon=2&color=9)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=Prathamesh-Kothalkar&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
