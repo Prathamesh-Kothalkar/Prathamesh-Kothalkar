@@ -29,5 +29,7 @@ You can click the Preview link to take a look at your changes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-kothalkar-0b0949243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 [![](https://visitcount.itsvg.in/api?id=Prathamesh-Kothalkar&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
