@@ -3,7 +3,7 @@
 Prathamesh-Kothalkar/Prathamesh-Kothalkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img height="auto" width="auto" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"></img><br>
+<!--<img height="auto" width="auto" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"></img><br>-->
 # 💫 About Me:
 
 🇮🇳 Hi there! I'm **Prathamesh Kothalkar**, a passionate developer with a background in **Computer Engineering**. I specialize in **MERN stack** and love contributing to open-source projects. I'm Always eager to learn and collaborate, I'm excited to connect with like-minded developers and work on innovative projects.Want to contact with me <a href="https://prathamesh-kothalkar.vercel.app">Visit My Site</a>
