@@ -32,4 +32,5 @@ You can click the Preview link to take a look at your changes.
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
+  ![](https://komarev.com/ghpvc/?username=Prathamesh-Kothalkar)
 
