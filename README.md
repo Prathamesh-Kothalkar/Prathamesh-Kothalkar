@@ -12,7 +12,7 @@
 ```javascript
 const prathamesh = {
   pronouns: "He" | "Him",
-  code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "PHP"],
+  code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "PHP","SQL"],
   askMeAbout: ["Development", "Machine Learning", "DevOps", "Cloud", "Problem Solving"],
   technologies: {
     backEnd: {
