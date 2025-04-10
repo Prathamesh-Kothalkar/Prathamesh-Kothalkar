@@ -70,7 +70,7 @@ const prathamesh = {
 
 ## 📬 Contact Me  
 
-📩 Email: [pkothalkar@gmail.com](mailto:pkothalkar@gmail.com)  
+📩 Email: [pkothalkar9021@gmail.com](mailto:pkothalkar9021@gmail.com)  
 🔗 LinkedIn: [Prathamesh Kothalkar](https://www.linkedin.com/in/prathamesh-kothalkar)  
 
 ---
